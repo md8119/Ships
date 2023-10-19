@@ -1,0 +1,48 @@
+{   
+    "ships":{
+        "aircraft_carrier":{
+            "speed": 2,
+            "attack_range": 2
+        },
+        "battleship":{
+            "speed": 2,
+            "attack_range": 4
+        },
+        "cruiser":{
+            "speed": 3,
+            "attack_range": 3
+        },
+        "destroyer":{
+            "speed": 3,
+            "attack_type":{
+                "gun":{
+                    "range": 2
+                },
+                "torpedo":{
+                    "range": 1
+                }
+            }
+        },
+        "submarine":{
+            "speed": 1,
+            "attack_range": 2
+        },
+        "minesweaper":{
+            "speed": 1,
+            "attack_range": 1
+        },
+        "torpedo_boat":{
+            "speed": 4,
+            "attack_range": 1
+        },
+        "transporter":{
+            "speed": 1,
+            "attack_range": 1
+        }
+    },
+    "planes_speed":{
+        "fighter": 15,
+        "bomber": 25,
+        "heavy_bomber": 40
+        }
+}

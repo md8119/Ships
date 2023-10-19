@@ -1,0 +1,616 @@
+{
+    "aircraft_carrier": {
+        "aircraft_carrier": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "battleship": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "cruiser": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "destroyer": {
+            "destroy": 16,
+            "heavily_damaged": 14,
+            "damaged": 12
+        },
+        "submarine": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "minesweeper": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "torpedo_boat": {
+            "destroy": 14,
+            "heavily_damaged": 12,
+            "damaged": 10
+        },
+        "transporter": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": 12
+        },
+        "fighter": {
+            "destroy": 8
+        },
+        "bomber": {
+            "destroy": 8
+        },
+        "heavy_bomber": {
+            "destroy": 10
+        }
+    },
+    "battleship": {
+        "aircraft_carrier": {
+            "destroy": 12,
+            "heavily_damaged": 11,
+            "damaged": 9
+        },
+        "battleship": {
+            "destroy": 15,
+            "heavily_damaged": 13,
+            "damaged": 11
+        },
+        "cruiser": {
+            "destroy": 13,
+            "heavily_damaged": 12,
+            "damaged": 10
+        },
+        "destroyer": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "submarine": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "minesweeper": {
+            "destroy": 9,
+            "heavily_damaged": 8,
+            "damaged": 7
+        },
+        "torpedo_boat": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "transporter": {
+            "destroy": 8,
+            "heavily_damaged": 7,
+            "damaged": 6
+        },
+        "fighter": {
+            "destroy": 10
+        },
+        "bomber": {
+            "destroy": 10
+        },
+        "heavy_bomber": {
+            "destroy": 12
+        }
+    },
+    "cruiser": {
+        "aircraft_carrier": {
+            "destroy": 13,
+            "heavily_damaged": 12,
+            "damaged": 10
+        },
+        "battleship": {
+            "destroy": 16,
+            "heavily_damaged": 15,
+            "damaged": 12
+        },
+        "cruiser": {
+            "destroy": 15,
+            "heavily_damaged": 13,
+            "damaged": 11
+        },
+        "destroyer": {
+            "destroy": 12,
+            "heavily_damaged": 10,
+            "damaged": 8
+        },
+        "submarine": {
+            "destroy": 13,
+            "heavily_damaged": 11,
+            "damaged": 9
+        },
+        "minesweeper": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "torpedo_boat": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "transporter": {
+            "destroy": 9,
+            "heavily_damaged": 8,
+            "damaged": 7
+        },
+        "fighter": {
+            "destroy": 10
+        },
+        "bomber": {
+            "destroy": 10
+        },
+        "heavy_bomber": {
+            "destroy": 12
+        }
+    },
+    "destroyer": {
+        "guns":{
+            "aircraft_carrier": {
+                "destroy": null,
+                "heavily_damaged": null,
+                "damaged": 16
+            },
+            "battleship": {
+                "destroy": null,
+                "heavily_damaged": null,
+                "damaged": 16
+            },
+            "cruiser": {
+                "destroy": null,
+                "heavily_damaged": 16,
+                "damaged": 12
+            },
+            "destroyer": {
+                "destroy": 15,
+                "heavily_damaged": 13,
+                "damaged": 11
+            },
+            "submarine": {
+                "destroy": 11,
+                "heavily_damaged": 9,
+                "damaged": 8
+            },
+            "minesweeper": {
+                "destroy": 12,
+                "heavily_damaged": 10,
+                "damaged": 9
+            },
+            "torpedo_boat": {
+                "destroy": 12,
+                "heavily_damaged": 10,
+                "damaged": 8
+            },
+            "transporter": {
+                "destroy": 12,
+                "heavily_damaged": 10,
+                "damaged": 9
+            },
+            "fighter": {
+                "destroy": 10
+            },
+            "bomber": {
+                "destroy": 12
+            },
+            "heavy_bomber": {
+                "destroy": null
+            }
+        },
+        "torpedo":{
+            "aircraft_carrier": {
+                "destroy": 15,
+                "heavily_damaged": 13,
+                "damaged": 11
+            },
+            "battleship": {
+                "destroy": 15,
+                "heavily_damaged": 13,
+                "damaged": 11
+            },
+            "cruiser": {
+                "destroy": 14,
+                "heavily_damaged": 12,
+                "damaged": 10
+            },
+            "destroyer": {
+                "destroy": 16,
+                "heavily_damaged": 14,
+                "damaged": 12
+            },
+            "submarine": {
+                "destroy": null,
+                "heavily_damaged": null,
+                "damaged": null
+            },
+            "minesweeper": {
+                "destroy": 11,
+                "heavily_damaged": 9,
+                "damaged": 8
+            },
+            "torpedo_boat": {
+                "destroy": null,
+                "heavily_damaged": null,
+                "damaged": null
+            },
+            "transporter": {
+                "destroy": 10,
+                "heavily_damaged": 9,
+                "damaged": 8
+            },
+            "fighter": {
+                "destroy": null
+            },
+            "bomber": {
+                "destroy": null
+            },
+            "heavy_bomber": {
+                "destroy": null
+            }
+        }
+    },
+    "submarine": {
+        "aircraft_carrier": {
+            "destroy": 12,
+            "heavily_damaged": 11,
+            "damaged": 9
+        },
+        "battleship": {
+            "destroy": 14,
+            "heavily_damaged": 12,
+            "damaged": 10
+        },
+        "cruiser": {
+            "destroy": 15,
+            "heavily_damaged": 13,
+            "damaged": 11
+        },
+        "destroyer": {
+            "destroy": 16,
+            "heavily_damaged": 14,
+            "damaged": 12
+        },
+        "submarine": {
+            "destroy": 15,
+            "heavily_damaged": 13,
+            "damaged": 11
+        },
+        "minesweeper": {
+            "destroy": 15,
+            "heavily_damaged": 13,
+            "damaged": 11
+        },
+        "torpedo_boat": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "transporter": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "fighter": {
+            "destroy": 14
+        },
+        "bomber": {
+            "destroy": null
+        },
+        "heavy_bomber": {
+            "destroy": null
+        }
+    },
+    "minesweaper": {
+        "aircraft_carrier": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "battleship": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "cruiser": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "destroyer": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": 15
+        },
+        "submarine": {
+            "destroy": 12,
+            "heavily_damaged": 10,
+            "damaged": 8
+        },
+        "minesweeper": {
+            "destroy": 15,
+            "heavily_damaged": 13,
+            "damaged": 11
+        },
+        "torpedo_boat": {
+            "destroy": 14,
+            "heavily_damaged": 12,
+            "damaged": 10
+        },
+        "transporter": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": 15
+        },
+        "fighter": {
+            "destroy": 14
+        },
+        "bomber": {
+            "destroy": null
+        },
+        "heavy_bomber": {
+            "destroy": null
+        }
+    },
+    "torpedo_boat": {
+        "aircraft_carrier": {
+            "destroy": 13,
+            "heavily_damaged": 11,
+            "damaged": 9
+        },
+        "battleship": {
+            "destroy": 14,
+            "heavily_damaged": 12,
+            "damaged": 10
+        },
+        "cruiser": {
+            "destroy": 15,
+            "heavily_damaged": 13,
+            "damaged": 11
+        },
+        "destroyer": {
+            "destroy": 16,
+            "heavily_damaged": 14,
+            "damaged": 12
+        },
+        "submarine": {
+            "destroy": 11,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "minesweeper": {
+            "destroy": 12,
+            "heavily_damaged": 10,
+            "damaged": 9
+        },
+        "torpedo_boat": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "transporter": {
+            "destroy": 11,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "fighter": {
+            "destroy": 14
+        },
+        "bomber": {
+            "destroy": null
+        },
+        "heavy_bomber": {
+            "destroy": null
+        }
+    },
+    "transporter": {
+        "aircraft_carrier": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "battleship": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "cruiser": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "destroyer": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "submarine": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "minesweeper": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": 15
+        },
+        "torpedo_boat": {
+            "destroy": 16,
+            "heavily_damaged": 14,
+            "damaged": 12
+        },
+        "transporter": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "fighter": {
+            "destroy": 16
+        },
+        "bomber": {
+            "destroy": null
+        },
+        "heavy_bomber": {
+            "destroy": null
+        }
+    },
+    "fighter": {
+        "aircraft_carrier": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "battleship": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "cruiser": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "destroyer": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": 14
+        },
+        "submarine": {
+            "destroy": 16,
+            "heavily_damaged": 14,
+            "damaged": 12
+        },
+        "minesweeper": {
+            "destroy": null,
+            "heavily_damaged": 12,
+            "damaged": 10
+        },
+        "torpedo_boat": {
+            "destroy": 16,
+            "heavily_damaged": 14,
+            "damaged": 12
+        },
+        "transporter": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "fighter": {
+            "destroy": 14
+        },
+        "bomber": {
+            "destroy": 10
+        },
+        "heavy_bomber": {
+            "destroy": 8
+        }
+    },
+    "bomber": {
+        "aircraft_carrier": {
+            "destroy": 12,
+            "heavily_damaged": 11,
+            "damaged": 9
+        },
+        "battleship": {
+            "destroy": 12,
+            "heavily_damaged": 11,
+            "damaged": 9
+        },
+        "cruiser": {
+            "destroy": 11,
+            "heavily_damaged": 10,
+            "damaged": 8
+        },
+        "destroyer": {
+            "destroy": 12,
+            "heavily_damaged": 11,
+            "damaged": 9
+        },
+        "submarine": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "minesweeper": {
+            "destroy": 8,
+            "heavily_damaged": 7,
+            "damaged": 6
+        },
+        "torpedo_boat": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 8
+        },
+        "transporter": {
+            "destroy": 9,
+            "heavily_damaged": 7,
+            "damaged": 5
+        },
+        "fighter": {
+            "destroy": 15
+        },
+        "bomber": {
+            "destroy": null
+        },
+        "heavy_bomber": {
+            "destroy": null
+        }
+    },
+    "heavy_bomber": {
+        "aircraft_carrier": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 7
+        },
+        "battleship": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 7
+        },
+        "cruiser": {
+            "destroy": 10,
+            "heavily_damaged": 9,
+            "damaged": 7
+        },
+        "destroyer": {
+            "destroy": 12,
+            "heavily_damaged": 11,
+            "damaged": 9
+        },
+        "submarine": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "minesweeper": {
+            "destroy": 8,
+            "heavily_damaged": 7,
+            "damaged": 6
+        },
+        "torpedo_boat": {
+            "destroy": null,
+            "heavily_damaged": null,
+            "damaged": null
+        },
+        "transporter": {
+            "destroy": 8,
+            "heavily_damaged": 6,
+            "damaged": 5
+        },
+        "fighter": {
+            "destroy": 16
+        },
+        "bomber": {
+            "destroy": null
+        },
+        "heavy_bomber": {
+            "destroy": null
+        }
+    }
+}
